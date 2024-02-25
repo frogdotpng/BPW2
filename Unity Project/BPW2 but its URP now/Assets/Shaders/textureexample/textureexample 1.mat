@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: textureexample
+  m_Name: textureexample 1
   m_Shader: {fileID: -6465566751694194690, guid: 325d13683efd62e45a5a7862bb5d5ee2,
     type: 3}
   m_Parent: {fileID: 0}
@@ -132,11 +132,11 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Base_Color: {r: 0.754717, g: 0.754717, b: 0.754717, a: 0}
+    - _Base_Color: {r: 0.7075472, g: 0.67083484, b: 0.67083484, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Offset: {r: 0, g: 0, b: 0, a: 0}
-    - _Scroll_Velocity: {r: 1, g: 0, b: 0, a: 0}
+    - _Offset: {r: -0.86, g: 0.75, b: 0, a: 0}
+    - _Scroll_Velocity: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Tiling: {r: 1.55, g: 113.16, b: 0, a: 0}
+    - _Tiling: {r: 0.2, g: 113.16, b: 0, a: 0}
   m_BuildTextureStacks: []
