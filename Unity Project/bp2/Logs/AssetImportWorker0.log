@@ -1079,3 +1079,27 @@ Received Import Request.
 Start importing Assets/Scenes/fucking around (and finding out) 1.unity using Guid(55c08b74c5542e045babe9934ded558e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '105a72bc1e5c1f0d8ecd113511e1d4b7') in 0.000670 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 174.958307 seconds.
+  path: Assets/Shaders
+  artifactKey: Guid(be92e4a4945ccea4b9e8b7c9d4254914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shaders using Guid(be92e4a4945ccea4b9e8b7c9d4254914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0cef7ce837df31a0ec5f1ab106b11e2') in 0.000532 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 306.919868 seconds.
+  path: Assets/My Assets/Train and Tracks.prefab
+  artifactKey: Guid(4361dfa70cb8c4549bc9351991c6edb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Assets/Train and Tracks.prefab using Guid(4361dfa70cb8c4549bc9351991c6edb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12b8fc09e0e5a10f580a82925ed7499') in 0.075309 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 437
+========================================================================
+Received Import Request.
+  Time since last request: 21.397583 seconds.
+  path: Assets/My Assets/Bridge.prefab
+  artifactKey: Guid(96d129c0065e6de41b84a83e3b47ea0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/My Assets/Bridge.prefab using Guid(96d129c0065e6de41b84a83e3b47ea0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493a73e9941c84af2436b1fb46e91009') in 0.018233 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 29
