@@ -44,8 +44,8 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Wave_Speed: 0
-    - _Wave_Strength: 0
+    - _Wave_Speed: 1
+    - _Wave_Strength: 0.006
     - _speed: 0
     m_Colors:
     - _Base_Color: {r: 0.46226418, g: 0.46226418, b: 0.46226418, a: 0}
