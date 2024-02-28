@@ -138,5 +138,5 @@ Material:
     - _Offset: {r: 0, g: 0, b: 0, a: 0}
     - _Scroll_Velocity: {r: 1, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Tiling: {r: 1.55, g: 113.16, b: 0, a: 0}
+    - _Tiling: {r: 2.5833333, g: 188.6, b: 0, a: 0}
   m_BuildTextureStacks: []

@@ -3,7 +3,27 @@ guid: cdfa8b8dc573e394cad9a3dc3e3aec68
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Copper
+    second: {fileID: 2100000, guid: f1a782ecda21b49468290f13f4fbc178, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 5336bd9ec3858bf42968c4d4c3373826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: darker grey base
+    second: {fileID: 2100000, guid: 5fd3322cd8535aa4299945a685a74ef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey train base
+    second: {fileID: 2100000, guid: d95ed3e6a70aa894a9609f34b576febc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,67 @@ guid: 1c2359c97055ed84db42d26b6a600488
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 534ce99ee6a72d4468922256cd22dddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye Pupil
+    second: {fileID: 2100000, guid: 901548d68f77ca54a97d0ab3553333c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fin
+    second: {fileID: 2100000, guid: 4200d9ca1f084b649863c40d919cd03c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fish Base
+    second: {fileID: 2100000, guid: 93c60303d5185064db8539dc7233bb1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fish Base Darker
+    second: {fileID: 2100000, guid: ac47e831996b2dc40b019583f81aed4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fish Base Lighter
+    second: {fileID: 2100000, guid: c99cf091ed7f16d48897b97fa456a05c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fish Brown Stuff
+    second: {fileID: 2100000, guid: 0e35f2bf2c760264aa36100c863600ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lighter Fin
+    second: {fileID: 2100000, guid: a4675e8e703901d479c1e1992404dbd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail End
+    second: {fileID: 2100000, guid: 9d62e8f169022d34cbe19d3bd74d0072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail Start
+    second: {fileID: 2100000, guid: 1f5d013c7d600154eb49c8a3dc321460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail three
+    second: {fileID: 2100000, guid: 19dbe450be2b6a04797e3f0ea4c01dbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail two
+    second: {fileID: 2100000, guid: c56e2c1fcd3eab04bb2a9041dfe32793, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
