@@ -13,6 +13,11 @@ public class MainMenu : MonoBehaviour
     [Header("Settings field")]
     [SerializeField] public GameObject settingsGohere;
 
+    [Header("Game parts")]
+    [SerializeField] public GameObject MenuCollection;
+    [SerializeField] public GameObject GameCollection;
+    [SerializeField] public GameObject btutons;
+
 
     private void Start()
     {
@@ -22,7 +27,8 @@ public class MainMenu : MonoBehaviour
 
     public void Play() 
     {
-        SceneManager.LoadScene(nextScene);
+        MenuCollection.SetActive(false);
+        GameCollection.SetActive(true);
     }
 
     public void Quit() 
@@ -39,10 +45,12 @@ public class MainMenu : MonoBehaviour
     public void Credits()
     {
         creditsGohere.SetActive(true);
+        btutons.SetActive(false);
     }
 
     public void CloseCredits() {
         creditsGohere.SetActive(false);
+        btutons.SetActive(true);
     }
 
     public void CloseSettings()
