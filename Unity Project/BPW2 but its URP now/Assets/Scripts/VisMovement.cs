@@ -23,13 +23,13 @@ public class VisMovement : MonoBehaviour
     void Update()
     {
         playerPosition = player.transform.position.z;
-        xPos = this.transform.position.x;
-        yPos = this.transform.position.y;
+        xPos = transform.position.x;
+        yPos = transform.position.y;
 
         rotatione = new Vector3(90, 180, 0) + (player.transform.rotation.eulerAngles*-1);
 
-        this.gameObject.transform.position = new Vector3(xPos, yPos, playerPosition + zOffset);
-        this.gameObject.transform.eulerAngles = rotatione;
+        transform.position = new Vector3(xPos, yPos, playerPosition + zOffset);
+        transform.eulerAngles = rotatione;
 
     }
 }

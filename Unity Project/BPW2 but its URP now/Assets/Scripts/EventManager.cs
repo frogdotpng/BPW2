@@ -30,6 +30,13 @@ public class EventManager : MonoBehaviour
     private bool isDay = true;
 
     // Update is called once per frame
+
+    private void Start()
+    {
+        Cursor.lockState = CursorLockMode.Locked;
+    }
+
+
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.E))
