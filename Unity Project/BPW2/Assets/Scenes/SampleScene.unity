@@ -618,8 +618,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<size=55><b>Models</size>\r</b>\n<indent=15><b>Train & tracks:</b> me\n<b>Fish:</b>
-    me\n<b>Rock:</b> Daddy  Ralph </indent>\n\n<size=55><b>Misc</size>\r</b>\n<indent=15><b>Materials/textures:</b>
+  m_text: "<size=55><b>Models</size>\r</b>\n<indent=15><b>Train & tracks:</b> me\n<b>Everything
+    except for the rocks:</b> me\n<b>Rocks:</b> Daddy Ralph </indent>\n\n<size=55><b>Misc</size>\r</b>\n<indent=15><b>Materials/textures:</b>
     me\n<b>Music:</b> me\n<b>SFX:</b> mixkit.co\n<b>Font:</b> SpicyKebab from FontSpace\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 87cda72aef432c54aab26255f697db3c, type: 2}
@@ -30100,8 +30100,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<size=55><b>Models</size>\r</b>\n<indent=15><b>Train & tracks:</b> me\n<b>Fish:</b>
-    me\n<b>Rock:</b> Ralph </indent>\n\n<size=55><b>Misc</size>\r</b>\n<indent=15><b>Materials/textures:</b>
+  m_text: "<size=55><b>Models</size>\r</b>\n<indent=15><b>Train & tracks:</b> me\n<b>Everything
+    except for the rocks:</b> me\n<b>Rocks:</b> Ralph </indent>\n\n<size=55><b>Misc</size>\r</b>\n<indent=15><b>Materials/textures:</b>
     me\n<b>Music:</b> me\n<b>SFX:</b> mixkit.co\n<b>Font:</b> SpicyKebab from FontSpace\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 87cda72aef432c54aab26255f697db3c, type: 2}
@@ -36080,7 +36080,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1141141575
 Transform:
   m_ObjectHideFlags: 0
